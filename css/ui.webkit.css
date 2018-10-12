@@ -64,7 +64,7 @@ DEALINGS IN THE SOFTWARE.
 			
 			.color-red {background:red;}
 			.color-white {background:white;}
-			.color-blue {background:#0070ff;}
+			.color-blue {background:#9ec3de;}
 			.color-black {background:black;}
 			
 			.proxy-anchor { display: none;}
@@ -88,7 +88,7 @@ DEALINGS IN THE SOFTWARE.
 			.menu ul {list-style: none; padding: 0; margin: 1em;}
 			.menu ul li {margin: .25em; display: block; padding:0 1em;}
 			.menu ul li a {display: block; padding: .5em 0 .25em; border-bottom: 1px solid white; text-decoration: none; font-size: 1.25em; transition: border .5s linear; color: #222;}
-			.menu ul li a:hover { border-bottom: 1px solid #0070ff;}
+			.menu ul li a:hover { border-bottom: 1px solid #9ec3de;}
 			.menu-control-mobile {
 				display: none;
 				font-size: 2em;
@@ -111,7 +111,7 @@ DEALINGS IN THE SOFTWARE.
 				
 				.menuBtn {font-size: 2em; display: inline-block; }
 				.menuCloseBtn {font-size: 3em; display: block; text-align: right; padding: .35em 1em; position: absolute; width:4.5em;}
-				.menuBtn:hover, .menuCloseBtn:hover {color: #0070ff;}
+				.menuBtn:hover, .menuCloseBtn:hover {color: #9ec3de;}
 				
 				#menuChk {position: fixed; top: -5em;} 
 
@@ -142,7 +142,7 @@ DEALINGS IN THE SOFTWARE.
 				
 				.menuBtn {font-size: 2em; display: inline-block;}
 				.menuCloseBtn {font-size: 3em; display: block; text-align: right; padding: .35em .5em; position: absolute; width:calc(100vw - 2.25em); max-width: 240px; }
-				.menuBtn:hover, .menuCloseBtn:hover {color: #0070ff;}
+				.menuBtn:hover, .menuCloseBtn:hover {color: #9ec3de;}
 				
 				.menu-control-mobile {
 					display: block;

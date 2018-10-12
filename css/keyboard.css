@@ -36,8 +36,8 @@ DEALINGS IN THE SOFTWARE.
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 	
 		#menuChk ~ .menu a:focus {
-			background: #0070ff !important; 
-			color: white !important;
+			background: #9ec3de !important; 
+			color: black !important;
 			position: absolute !important; 
 			left: 18em !important; 
 			width: 16em !important; 
@@ -61,7 +61,7 @@ DEALINGS IN THE SOFTWARE.
 			transform: translate3d(0,0,0) !important;	
 			z-index: 1000 !important;
 		}
-		a:focus {background: #0070ff !important; color: white !important;}
+		a:focus {background: #9ec3de !important; color: black !important;}
 	/* } */
 	
 	/*menu visibility fixes*/
@@ -69,7 +69,7 @@ DEALINGS IN THE SOFTWARE.
 		transform: translate3d(0,0,0) !important;	
 		z-index: 1000 !important;
 	}
-	a:focus {background: #0070ff !important; color: white !important;}
+	a:focus {background: #9ec3de !important; color: black !important;}
 	
 	
 }
@@ -78,8 +78,8 @@ DEALINGS IN THE SOFTWARE.
 @supports (display:-ms-grid){
 		
 		#menuChk ~ .menu a:focus {
-			background: #0070ff !important; 
-			color: white !important;
+			background: #9ec3de !important; 
+			color: black !important;
 			position: absolute !important; 
 			left: 18em !important; 
 			width: 16em !important; 
